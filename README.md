@@ -21,25 +21,23 @@ Here are some ideas to get you started:
 
 Computer Programming student at Algonquin College interested in backend development, databases, and software engineering.
 
-## Technologies
+## Skills
 
-* Java
-* SQL
-* Node.js
-* MongoDB
-* PostgreSQL
-* JavaScript
+* Java – Eclipse, Apache NetBeans
+* Database – MySQL, PostgreSQL, MS SQL Server, MongoDB
+* Node.js, HTML/CSS – VS code
+* Bash Scripting (Linux) - VMware
+* Dart – Android Studio
+* BI and Data Analysis – RapidMiner
+* Network - Cisco Packet Tracer
+* Git, GitHub, Microsoft Office Suite 
 
-## Current Focus
 
-* Full-stack web development
-* Database design
-* Software testing
 
 ## Projects
 
+* Management System 
 * Quiz Web Application
-* Netflix-Style Database System
-* Driver’s License Management System
+* GTA V Sales & Player Analytics 
+* Database Project 
 
-Currently seeking Fall 2026 co-op opportunities.
